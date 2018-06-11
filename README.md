@@ -1,4 +1,4 @@
-# sfdx-travisci [![Build Status](https://travis-ci.org/forcedotcom/sfdx-travisci.svg?branch=master)](https://travis-ci.org/forcedotcom/sfdx-travisci)
+# sfdx-semaphoreci-dx [![Build Status](https://semaphoreci.com/api/v1/josephallen/sfdx-semaphoreci-dx/branches/master/shields_badge.svg)](https://semaphoreci.com/josephallen/sfdx-semaphoreci-dx)
 
 For a fully guided walk through of setting up and configuring this sample, see the [Continuous Integration Using Salesforce DX](https://trailhead.salesforce.com/modules/sfdx_travis_ci) Trailhead module.
 
